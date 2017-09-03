@@ -1,2 +1,3 @@
 hello world
-my git test !!!!!!!
+my git test !!!!!!
+pull 원격 저장소의 내용을 가져오기
